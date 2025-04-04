@@ -204,7 +204,7 @@ sudo chown u1 /home/test14
 ```bash
 cp /usr/bin/nano /home/test14
 chmod u+s /home/test14/nano
-chmod u+s /home/test14/nano
+sudo chown u1 /home/test14/nano
 ```
 
 ## Задание 17
