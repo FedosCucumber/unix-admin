@@ -203,8 +203,8 @@ sudo chown u1 /home/test14
 ## Задание 16
 ```bash
 cp /usr/bin/nano /home/test14
-chmod u+s /home/test14/nano
-chmod u+s /home/test14/nano
+chmod 755 /home/test14/nano
+chmod 755 /home/test14/nano
 ```
 
 ## Задание 17
